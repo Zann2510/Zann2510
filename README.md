@@ -1,37 +1,31 @@
-### 👋 Halo, saya Ahmad Fauzan
+### 👋 Hi, I'm Ahmad Fauzan
 
-Saya seorang **Junior IT Professional** dengan spesialisasi pada **Fullstack Web Development**. Saya senang mempelajari dan memperdalam hal baru, baik secara mandiri maupun melalui kolaborasi tim, sebagai bagian dari proses pertumbuhan profesional yang berkelanjutan.
+I'm a **Junior IT Professional** specializing in **Fullstack Web Development**. I enjoy learning and deepening new skills, both independently and through team collaboration, as part of an ongoing professional growth process.
 
 ---
 
-### 🔭 Sedang saya kerjakan
-- Mengembangkan **MEXPO** — MEXPO adalah sistem berbasis web untuk mendukung penyelenggaraan expo. Saya bergabung sebagai Junior Backend Developer yang membantu pengembangan fitur backend serta beradaptasi dengan codebase Laravel yang sudah berjalan.
+### 🔭 Currently Working On
+- **MEXPO** — a web-based system to support the management of expo events. I joined as a **Junior Backend Developer**, contributing to backend feature development and adapting to an existing Laravel codebase.
+  - Developing and maintaining backend features using Laravel and PHP
+  - Contributing to MySQL database management for the expo management system
+  - Debugging and adapting to an existing Laravel codebase
 
-- Memperdalam konsep **•    Mengembangkan dan memelihara fitur backend menggunakan Laravel dan PHP.
-•    Berkontribusi dalam pengelolaan database MySQL untuk sistem penyelenggaraan expo.
-•    Melakukan debugging serta beradaptasi dengan codebase Laravel yang sudah berjalan.
-Teknologi: Javascript, Nest.Js, MySQL**
+### 🌱 Currently Learning
+- Nest.js and building RESTful APIs with JavaScript/TypeScript
+- Deepening database design and management with MySQL
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-**Database & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
